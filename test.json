@@ -1,0 +1,1 @@
+{'ips': {'ip': '192.168.0.1', 'host': 'testhost1', 'categories': ['CAT1', 'CAT2']}, {'ip': '192.168.0.2', 'host': 'testhost2', 'categories': ['CAT1', 'CAT3']}}

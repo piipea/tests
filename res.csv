@@ -1,0 +1,4 @@
+ip,host,categories
+192.168.0.1,testhost1,"['CAT1', 'CAT2']"
+192.168.0.2,,"['CAT1', 'CAT3']"
+192.168.0.3,testhost3,"['OPER', 'CAT3']"
